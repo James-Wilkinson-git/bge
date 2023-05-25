@@ -1,3 +1,6 @@
-export default function BoardGamesList() {
-  return <div>Board Games List</div>;
+import { auth } from "@clerk/nextjs";
+
+export default function LibraryPage() {
+  const { userId } = auth();
+  return <div>User Id: {userId}</div>;
 }
