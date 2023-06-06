@@ -19,7 +19,7 @@
     "clerk": "^0.8.3",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.3",
-    "fast-xml-parser": "^4.2.2",
+    "fast-xml-parser": "^4.2.4",
     "fs": "^0.0.1-security",
     "next": "13.4.3",
     "postcss": "8.4.23",
